@@ -13,6 +13,8 @@ that allows you to send pic of song that you listening to. Worked with Chaquoppy
 
 I have my [Telegram Channel](https://t.me/sktrxdev) where i posting my plugins for exteraGram and exteraLess (open-source fork of exteraGram that still have a little different plugins system).
 
+My flagchip project may be [Obhod](https://github.com/skytr1x/Obhod) that allows Russian people get easy access to the internet from phone.
+
 # How to contact?
 
 You can contact me with any of next platform:
